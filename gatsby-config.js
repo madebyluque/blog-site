@@ -8,5 +8,10 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  siteMetadata: {
+    title: "Lucas Silva",
+    description:
+      "Blog sobre desenvolvimento de software e outras coisas legais 😎",
+  },
   plugins: [],
-}
+};
